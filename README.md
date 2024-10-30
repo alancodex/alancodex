@@ -3,21 +3,6 @@
 ![hler](https://github.com/user-attachments/assets/c0fbcae6-f2b1-4823-9038-6c46fd76f4e1) 
 <br>Sinta-se a vontade em visitar meus projetos!!
 
-<hr>
-<div> 
-  <h3>✈️ How to reach me: </h3>
-  <a href="https://instagram.com/ana_souza1503/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
-  <a href = "mailto:caroltorchia18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ana-carolina-torchia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<hr>
-<div align="left">
- <h3>📊 Github Analytics</h3>
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=caroltorchia&show_icons=true&theme=dracula" /> 
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=caroltorchia&layout=compact&theme=dracula"/>
-</div>
-<hr>
-
 <div align="left" style="display:inline_block">
   <h3>🛠️ Languages and Tools</h3>
   <img align="center" alt="Ruby" height="40" width="40" src="https://www.svgrepo.com/show/374055/ruby.svg">
